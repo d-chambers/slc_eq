@@ -1,0 +1,10 @@
+name: slc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - obspy
+  - matplotlib
+  - pygmt
+  - pandas
+  - numpy
